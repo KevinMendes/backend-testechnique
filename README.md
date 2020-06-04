@@ -1,3 +1,5 @@
+# Partie 1
+
 # installation 
 
 npm install
@@ -9,3 +11,7 @@ nodemon index.js
 # URL
 
 localhost:8000
+
+# Partie 2 
+
+La partie 2 se trouve dans assignments-express
